@@ -25,7 +25,7 @@ This project provides a comprehensive data analysis tool to assist SmartMart in 
 
 ## Visualizations
 
-![Dashboard Screenshot](path_to_screenshot.png)
+![Dashboard Screenshot](dashboard_image.JPG)
 
 ## Requirements
 
